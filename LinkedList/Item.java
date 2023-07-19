@@ -1,10 +1,10 @@
 public class Item {
     
 int number;
-Item followingItem;
+Item next;
 
 public Item(int number) {
     this.number = number;
-    this.followingItem = null;
+    this.next = null;
 }
 }
