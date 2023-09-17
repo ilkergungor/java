@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author lkrgn
- *
- */
-module Islemci {
-}
